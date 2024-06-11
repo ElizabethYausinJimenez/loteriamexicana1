@@ -11,6 +11,7 @@ h1 {
 table {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 td {
